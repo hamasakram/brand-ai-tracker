@@ -1,0 +1,14 @@
+google-genai
+pandas
+PyYAML
+regex
+rapidfuzz
+vaderSentiment
+streamlit
+google-genai
+pandas
+PyYAML
+regex
+rapidfuzz
+vaderSentiment
+streamlit
