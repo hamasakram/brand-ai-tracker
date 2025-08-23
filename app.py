@@ -10,7 +10,7 @@ import google.generativeai as genai
 from sentiment import analyze_sentiment
 
 # Configure API key
-api_key = os.getenv("GEMINI_API_KEY", "AIzaSyCzcUY5XAtHNnOq9pPq7mHPafnlV6rjqeU")
+api_key = os.getenv("GEMINI_API_KEY", "API-KEY")
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-2.0-flash-lite')
 
