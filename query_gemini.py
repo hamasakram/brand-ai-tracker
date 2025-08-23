@@ -8,7 +8,7 @@ import re
 from sentiment import analyze_sentiment
 
 # Load API key from environment (do not hardcode secrets)
-api_key = "AIzaSyCzcUY5XAtHNnOq9pPq7mHPafnlV6rjqeU"
+api_key = "API-KEY"
 
 # Configure the API
 genai.configure(api_key=api_key)
