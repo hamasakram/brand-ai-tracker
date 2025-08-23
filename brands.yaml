@@ -5,10 +5,3 @@ brands:
   - canonical: "Globex"
     variants: ["Globex Corp", "GlobexCo"]
     competitors: ["Acme", "Umbrella"]
-brands:
-  - canonical: "Acme"
-    variants: ["Acme Inc", "AcmeCo"]
-    competitors: ["Globex", "Umbrella"]
-  - canonical: "Globex"
-    variants: ["Globex Corp", "GlobexCo"]
-    competitors: ["Acme", "Umbrella"]
