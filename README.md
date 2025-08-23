@@ -51,3 +51,6 @@ TextBlob (or Transformers for advanced sentiment)
 Install all via:
 
 pip install -r requirements.txt
+
+**📜 License**
+This project is licensed under the MIT License.
